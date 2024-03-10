@@ -1,11 +1,11 @@
 .layout {
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
+    background: linear-gradient(to bottom, #42b4e9, #7A39FA);
   }
   
   .content {
     flex: 1;
-    padding: 20px;
+    padding: 35px;
   }
   
