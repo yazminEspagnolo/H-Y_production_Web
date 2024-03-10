@@ -7,7 +7,6 @@ function Layout({ children }) {
     <div className="layout">
       <NavigationBar />
       <div className="content">
-        <h1>H&Y Production</h1>
         {children}
       </div>
     </div>

@@ -1,0 +1,32 @@
+.home-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .section {
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    height: 800px;
+  }
+  
+  .section1 {
+    background-color: #a8dee0;
+    color: rgb(93, 163, 160);
+    font-weight: bold;
+    text-shadow: white
+  }
+
+  .section1-text {
+    color: white;
+  }
+  
+  .section2 {
+    background-color: #a8a8a8;
+  }
+  
+  .section3 {
+    background-color: #727272;
+  }
